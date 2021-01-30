@@ -127,8 +127,36 @@ python hello_world.py
 
 <details>
     <summary><b>Remembering Difference Between Parameters and Arguments</b></summary>
-    <img src="assets/argument-vs-parameter.png" alt="parameter-vs-argument"/>
+    <img src="https://raw.githubusercontent.com/anishLearnsToCode/python-workshop-8/main/assets/argument-vs-parameter.png" alt="parameter-vs-argument"/>
 </details>
+
+- [Print Function](day_1/print_function.py)
+- [Comments](day_1/comments.py)
+- [Strings](day_1/strings.py)
+- [Data Types](day_1/data_types.py)
+- [Naming Conventions](day_1/naming_styles.py)
+- [Variable Naming Rules](day_1/variable_naming_conventions.py)
+- [Taking User Input](day_1/user_input.py)
+- [Taking Integer Input](day_1/taking_int_input.py)
+- [Arithmetic Operators](day_1/arithmetic_operators.py)
+- [Boolean Operators](day_1/boolean_operators.py)
+- [Formatted Strings](day_1/formatted_strings.py)
+- [If Else Statements](day_1/if_else_statements.py)
+- [Hackerrank If Else](day_1/hackerrank_if_else.py)
+- [Even Odd](day_1/even_odd.py)
+- [Ternary Expression](day_1/ternary_expression.py)
+- [Operator Shorthand](day_1/operator_shorthand.py)
+- [While Loop](day_1/while_loop.py)
+- [Sum N Natural Numbers (While Loop)](day_1/sum_n_natural_numbers.py)
+- [Sum Squares (While Loop)](day_1/sum_squares.py)
+- [Nested While Loop](day_1/nested_while_loops.py)
+- [Factorial (While Loop)](day_1/factorial.py)
+- [Range Object](day_1/range_object.py)
+- [For Loops](day_1/for_loops.py)
+- [Sum N Natural Numbers (For Loop)](day_1/sum_n_natural_numbers.py)
+- [Sum of Cubes (For Loop)](day_1/sum_cubes_for.py)
+- [Factorial (For Loop)](day_1/factorial_for.py)
+- [Loop Control Flow Statements](day_1/loop_control_flow_statements.py)
 
 ### Sample Questions
 | Question | Solution Link |

@@ -28,5 +28,7 @@ elif number < 100:
     print('mehhhh')
 elif number < 20:
     print('okayish number')
+else:
+    print('default case')
 
 print('i am outside if else')
