@@ -11,7 +11,7 @@
 </details>
 
 📽 [Class Link (Zoom)](https://us02web.zoom.us/j/83765689192?pwd=ZzZGT1l0WGI2aEFsSWY3WTBpZnNVdz09) |
-📽 [Class Recordings (Coming Soon!)]() |
+📽 [Class Recordings](https://photos.app.goo.gl/z2cmyR299ck6tWSn7) |
 🌊 [Course Flow](course-flow.md)
 
 ## Index
