@@ -179,6 +179,11 @@ python hello_world.py
 ## [Day 2](day_2)
 
 ### Topics Covered
+- [Functions](day_2/functions.py)
+- [Sum N Natural Numbers](day_2/sum_n_natural_numbers.py)
+- [Combinatorics Functions](day_2/combinatorics.py)
+- [Lists](day_2/lists.py)
+- [Complex Lists](day_2/complex_lists.py)
 
 ### Sample Questions
 | Question | Solution Link |
