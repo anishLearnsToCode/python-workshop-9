@@ -184,6 +184,16 @@ python hello_world.py
 - [Combinatorics Functions](day_2/combinatorics.py)
 - [Lists](day_2/lists.py)
 - [Complex Lists](day_2/complex_lists.py)
+- [List Comprehension](day_2/list_comprehension.py)
+- [Iterating Over Lists](day_2/list_iterate.py)
+- [Taking List Input](day_2/taking_list_input.py)
+- [Map Operator](day_2/map_operator.py)
+- [Tuples](day_2/tuple.py)
+- [Dictionary](day_2/dictionary.py)
+- [Frequency Table](day_2/frequency_table.py)
+- [Iterating Over Dictionary](day_2/iterating_over_dictionary.py)
+- [The `math` Package](day_2/math_package.py)
+- [The `random` Package](day_2/random_package.py)
 
 ### Sample Questions
 | Question | Solution Link |

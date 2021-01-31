@@ -1,10 +1,8 @@
 omg = [1, 3.14, 'hello world', print, print(), [1, 2, 3], True, range(2, 10, 2)]
 
-print(omg)
 
-print(type(omg[5]))
-
-print(omg[5][::2])
+for i in omg[2]:
+    print(i)
 
 # a = print
 # b = a
